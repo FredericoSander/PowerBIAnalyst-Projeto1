@@ -34,7 +34,7 @@ O painel Sales Report foi desenvolvido em conjunto com a instrutura Juliana Masc
 
 <div aling="center">
  <img src="https://github.com/Sanderfn/PowerBIAnalyst-Projeto1/blob/main/Paineis/Imagem%201%20-%20Sales%20Report.png">
-</div>>
+</div>
 
 No Painel 1 - Sales Report, são apresentados 5 cartões e 4 gráficos com dados consolidado de acordo com o período selecionados, apresentando os seguintes indicadores.
 - Cartões:
